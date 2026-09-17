@@ -246,4 +246,4 @@ This repository serves as the official landing page for RealPlayer. The software
 **Get the most recent version of RealPlayer today!**
 
 ---
-**Last updated:** 2026-09-17 16:18:42 UTC
+**Last updated:** 2026-09-17 20:00:23 UTC
